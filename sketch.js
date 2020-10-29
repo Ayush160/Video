@@ -8,6 +8,5 @@ function setup() {
 
 function draw() {
   background(220);
-  print(video);
-  noLoop();
+  document.write("Hello");
 }
